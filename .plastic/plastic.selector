@@ -1,0 +1,4 @@
+repository "GJ2021@meishin_tale@cloud"
+  path "/"
+    br "/main"
+    co "/main"
